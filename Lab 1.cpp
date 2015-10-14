@@ -22,6 +22,7 @@ using namespace std;
 //This function opens the output file to append the word and count on a new line
 bool WriteWordToFile(string outputFile, string searchWord, int wordCount)
 {
+    
     return false;
 }
 
